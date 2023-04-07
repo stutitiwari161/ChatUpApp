@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426796359406",
+    "project_id": "chatupvideocall",
+    "storage_bucket": "chatupvideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426796359406:android:bc6637af0a9749a5125dff",
+        "android_client_info": {
+          "package_name": "com.example.chatup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426796359406-a5s9t1usmmiuenhkfppo82le8o4g6960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYn-SUBierv4Ny9ckjce3jRUqRMXZAi2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426796359406-a5s9t1usmmiuenhkfppo82le8o4g6960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

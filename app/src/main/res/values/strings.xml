@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calls_fragment">Calls Fragment</string>
+    <string name="chats_fragment">Chats Fragment</string>
+    <string name="status_fragment">Status Fragment</string>
+</resources>
